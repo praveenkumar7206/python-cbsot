@@ -9,7 +9,7 @@ for e in range(10):
      if e%2==0:
          break  #yaha e 0 se start hogqa and 0%5 o hi hota hai, sooo agar koi loop ma break active hogaya
      #suu uska baad ka kuch bhi loop nhi chalega doesnt matter uskA BAAD KITNA LOOP HAI USS FOR KE ANDAR JISKA ANDAR BREAK HAI
-         print(e)
+print(e)
 
 
 for i in range(1,10):

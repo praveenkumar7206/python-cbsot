@@ -12,7 +12,7 @@ print(a+b-b*b)
 print(a//b) # divide only  givesinteger value
 print(a/b) # divisor  gives with decimal value
 print(a**b)  # a ke power b 
-print(a**2) #  a ka power 2
+print(a**2) #  a ka power 2 
 
 
 

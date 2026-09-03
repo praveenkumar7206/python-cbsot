@@ -15,3 +15,7 @@ print(type(a))
 name=20
 print(type(name))
 # homework python ma meomory kasa allocate hota hai ?
+
+
+
+

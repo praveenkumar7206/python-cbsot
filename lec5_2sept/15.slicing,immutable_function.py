@@ -21,6 +21,8 @@ print(s1)
 s2 = s[:2]+"x"+s[3:]
 print(s2)
 
+# we dont directly put value like s = jython ya pyxthon becuase i9f we do like that we make new memory address , old ref of actual python will be vansihed , soo because of that we do like that , so we can have reference of orginal s = "python"
+
 
 
 
