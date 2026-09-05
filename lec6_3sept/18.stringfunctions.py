@@ -30,7 +30,7 @@ print(s.count("abc"))
 w = input("enter ur word")
 l = len(w)
 rev=""
-while l>=0lis:
+while l>=0:
     rev =rev+ w[l-1]
     l=l-1
 print(rev)
