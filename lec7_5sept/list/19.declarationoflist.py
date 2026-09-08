@@ -15,7 +15,7 @@ for i in name:
 list=[]
 list.append("python")
 list.append(1)
-# using append function we can any data to list using this function
+# using append function we can add any data to list using this function
 # append add any thing to variable to add in last place
 print(list)
 # +ve and-ve indexing is also in list
